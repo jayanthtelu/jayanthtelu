@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Jayanth Telu 👋
 - 🔭 I’m a Graduate Student at UNC Charlotte ...
 - 📫 I'm available at jayanthss1998@gmail.com
 
