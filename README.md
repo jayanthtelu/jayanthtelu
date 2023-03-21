@@ -1,6 +1,8 @@
 ### Hi, I'm Jayanth Telu 👋
 I'm currently pursuing master's in computer science with a data science specialization, with hands-on expertise in dealing with data leveraged via technical experience from different industries at major corporations like Price Waterhouse Coopers and Mu Sigma with an Azure Data Engineer Associate certification.
 
+- 📫 How to reach me: jayanthss1998@gmail.com
+
 #### 🔭 Projects I Worked On..! 
 Netflix Demographics                                                                                                                                           Dec 2022
 - In this project, I’ve gathered the Netflix datasets from ‘kaggle.com’ and cleaned the data. The data is transformed according to the requirements for exploratory data analysis. Using the transformed datasets, I’ve developed visualizations using Tableau. These visualizations give a clear understanding on the complete datasets. These visualizations are integrated into a webpage using streamlit framework and hosted the webpage on this page. (https://rb.gy/cdhqtl)
