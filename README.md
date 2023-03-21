@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 🔭 I’m a Graduate Student at UNC Charlotte ...
+- 📫 I'm available jayanthss1998@gmail.com
+
 
 <!--
 **jayanthtelu/jayanthtelu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
