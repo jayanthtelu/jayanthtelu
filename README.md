@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m a Graduate Student at UNC Charlotte ...
-- 📫 I'm available jayanthss1998@gmail.com
+- 📫 I'm available at jayanthss1998@gmail.com
 
 
 <!--
