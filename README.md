@@ -1,7 +1,5 @@
 ### Hi, I'm Jayanth Telu 👋
-- 🔭 I’m a Graduate Student at UNC Charlotte ...
-- 📫 I'm available at jayanthss1998@gmail.com
-
+I'm currently pursuing master's in computer science with a data science specialization, with hands-on expertise in dealing with data leveraged via technical experience from different industries at major corporations like Price Waterhouse Coopers and Mu Sigma with an Azure Data Engineer Associate certification.
 
 <!--
 **jayanthtelu/jayanthtelu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
