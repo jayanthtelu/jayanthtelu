@@ -7,6 +7,9 @@ Results-driven Data Engineer with around 3 years of expertise in designing and i
 - 📫 How to reach me: jayanth.telu99@gmail.com
 
 #### 🔭 Projects I Worked On..! 
+Sentimental Analysis on Tweets                                                                                                                  April 2023    
+- The project involves scraping tweets from the University of Maryland, College Park on Twitter using specific hashtags. The text data is cleaned and preprocessed to ensure high-quality input. Feature extraction is done using bag-of-words and TF-IDF approaches to capture patterns and associations. A sequential neural network model is used for sentiment analysis, consisting of an embedding layer, LSTM, CNN, GRU, and dense output layers. Performance evaluation is conducted using metrics like accuracy, precision, recall, and F1-score to assess sentiment classification effectiveness. The project aims to gain valuable insights into the sentiment landscape of University of Maryland, College Park tweets, providing a deeper understanding of public sentiment in this context.
+
 Netflix Demographics                                                                                                                                           Dec 2022
 - I’ve gathered the Netflix datasets from ‘kaggle.com’ and cleaned the data in this project. The data is transformed according to the requirements for exploratory data analysis. Using the transformed datasets, I’ve developed visualizations using Tableau. These visualizations give a clear understanding of the complete datasets. These visualizations are integrated into a webpage using the streamlit framework and hosted the webpage on this page. (https://rb.gy/cdhqtl)
 
@@ -18,9 +21,6 @@ Identifying and Predicting Customer Churn                                       
 
 An efficient keyword search and dynamic updation over encrypted data in the cloud.                                                                Sep 2019 - April 2020
 - In this project, we implemented an efficient multi-keyword ranked search. Here we use the effective RSA Algorithm to encrypt the contents of the file. We also implemented dynamic updating of data into the files that are already on the cloud, enhancing the user experience by making the application more user-friendly.
-
-Sentimental Analysis on Tweets                                                                                                                  April 2023    
-- The project involves scraping tweets from the University of Maryland, College Park on Twitter using specific hashtags. The text data is cleaned and preprocessed to ensure high-quality input. Feature extraction is done using bag-of-words and TF-IDF approaches to capture patterns and associations. A sequential neural network model is used for sentiment analysis, consisting of an embedding layer, LSTM, CNN, GRU, and dense output layers. Performance evaluation is conducted using metrics like accuracy, precision, recall, and F1-score to assess sentiment classification effectiveness. The project aims to gain valuable insights into the sentiment landscape of University of Maryland, College Park tweets, providing a deeper understanding of public sentiment in this context.
 
                                                        
 <!--
