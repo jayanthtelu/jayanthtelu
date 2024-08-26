@@ -1,8 +1,8 @@
 ### Hi, I'm Jayanth Telu 👋
 Results-driven Data Analyst with around 3 years of expertise in designing and implementing ETL processes, optimizing data pipelines, and enhancing business intelligence. Proficient in SQL, Python, and Java, with hands-on experience in data modeling, database management, and performance tuning using Apache Spark and Hadoop. Proven track record in implementing scalable cloud solutions, including AWS and Azure
 
-- 🔭 I’m currently working as a Data Engineer at JohnDeere :tractor:
-- 🤔 I’m looking for Data Engineer, Data Analyst, BI Developer, and SQL Analyst/Developer kind of roles.
+- 🔭 I’m currently working as a Data Analyst at JohnDeere :tractor:
+- 🤔 I’m looking for a Data Engineer, Data Analyst, BI Developer, and SQL Analyst/Developer kind of roles.
   
 - 📫 How to reach me: jayanth.telu99@gmail.com
 
