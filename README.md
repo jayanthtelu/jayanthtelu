@@ -8,7 +8,7 @@ Proven ability to collaborate with cross-functional teams to drive strategic dec
 Recognized for engineering innovative solutions that streamline business processes, improve data accuracy, and support data-driven
 decision-making in a Fortune 500 company environment.
 
-- 🔭 I’m currently working as a Data Analyst at JohnDeere :tractor:
+- 🔭 I’m currently working as a Data Engineer at JohnDeere :tractor:
 - 🤔 I’m looking for a Data Engineer, Data Analyst, BI Developer, and SQL Analyst/Developer kind of roles.
   
 - 📫 How to reach me: jayanth.telu99@gmail.com
